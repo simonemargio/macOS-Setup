@@ -69,7 +69,7 @@ It allows you to analyze in detail all the .pkg packages before installing them.
 #### Little Snich 💰
 The best firewall you can install. It allows you to block and create rules for any application and service on the mac.
 
-# Backup
+## Backup
 #### TimeMachine ✅
 He does everything, you don't have to do anything.
 
@@ -142,7 +142,6 @@ It's like Microsoft's suite. It has Office compatibility and handles even comple
 
 #### Apple Note ✅
 If you are in the Apple ecosystem it is a must have, both for fast and articulate notes.
-
 
 ## Safari setup
 Years ago I used a lot of extensions, now I have reduced them to the maximum. There're only two active extensions:  
