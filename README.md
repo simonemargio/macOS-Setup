@@ -133,6 +133,9 @@ Let's say that if you go for gaming, perhaps it's not worth taking a mac. Many g
 #### DOSBox ✅
 If you like old DOS games, this is the best emulator you can find.
 
+#### OpenEmu ✅
+Open source emulator, supports many consoles such as: Atari, Nintendo, Sega, PSP, GameBoy and many others.
+
 #### NVIDIA GeForce NOW ✅ | 🔄
 For the heaviest and most complex games. Allows you to link the Steam library. The only flaw for the moment is that the game catalog is still too little.
 
