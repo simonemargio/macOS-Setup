@@ -16,6 +16,9 @@ Great alternative for those who don't want to use the default browser. I love it
 #### Telegram ✅
 I'm sure many prefer to use Signal for privacy or Whatsapp for not having it at all. I was lucky enough to take all my friends from Whatsapp to Telegram years ago and asking them to switch to Signal is too much. Telegram is excellent because it contains channels and groups for many passions and information.
 
+#### Signal ✅
+Thanks to the tweet from [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153?s=20) and others, many people have started migrating to Signal, so I'm pushing harder to use it and delete Telegram.
+
 #### Facetime ✅
 With telegram video calls I use Facetime less often, but it's a valid alternative for those who have the entire Apple ecosystem.
 
