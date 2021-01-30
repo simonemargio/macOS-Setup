@@ -107,6 +107,15 @@ Zipping and unzipping any file. Supports multiple formats.
 #### qBittorrent ✅
 Download and manage torrent files.
 
+#### Alfred ✅ | 💰
+Spotlight is definitely a great way to search for anything. But many times it's slow, it doesn't show all the files and slowly. So you realize that it's limited. Alfred is a great replacement for Spotlight, light and fast. It's available in a free version but buying a license opens up a world of possible search combinations that you can do. Through the Workflows I can do research on Reddit, view my repo on GitHub, search for torrents and many other things. It has tons of features and once configured properly, I would just use it for anything.
+
+#### Amphetamine ✅
+At first I was skeptical that my macbook turns off the screen or goes to sleep when I'm not using it, why should I use a program that always keeps it on? The answer is simple, there are situations such as: I have to download a file or a torrent, I have to be away from my Mac while has to perform processes, I'm performing backup operations and many others where my Mac must always be active and never go in suspension. Amphetamine allows you to configure this to your liking.
+
+#### Magnet 💰
+Magnet keeps your workspace organized. Activated by dragging, customizable keyboard shortcuts or via menu bar and declutters your screen by snapping windows into organized tiles. Fullscreen, halves, quarters & thirds. Up to six external displays supported. The potential combinations are endless.
+
 #### Reeder 💰
 Fantastic RSS feed manager. Available for both macOS and iOS. The latest update allows the synchronization of your feed via iCloud.
 
@@ -145,6 +154,9 @@ For the heaviest and most complex games. Allows you to link the Steam library. T
 ## Writing
 #### Suite Apple (Keynote, Numbers, Pages) ✅
 It's like Microsoft's suite. It has Office compatibility and handles even complex spreadsheets well. Tip: if you rarely use Office, uninstall it from your mac and use the web brawser version, you save space and the infinity of installed Microsoft services.
+
+#### MacDown ✅
+The best editor for Markdown. Simple, open source and fast. I recommend disabling the automatic preview update and using the cmd+r command to see the changes.
 
 #### Apple Note ✅
 If you are in the Apple ecosystem it is a must have, both for fast and articulate notes.
