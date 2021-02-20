@@ -86,8 +86,8 @@ For offsite backups. It supports many services like Amazon S3, Backblaze B2, Goo
 #### AdGuard 🔄 | 💰
 Blocking and privacy protection software for blocking pop-ups, banners, and web tracking, malware and phishing. My advice is to wait for offers and discounts that allow you to purchase the lifetime license for a few dollars.
 
-#### AppCleaner ✅
-Search all the folders located in the mac of the program that you want to delete.
+#### Sensei 💰
+I recommend taking it if on offer at little for the lifetime version. Sensei is a set of features, you can have a general overview of your Mac (battery, ram, disks, fans, etc.), uninstall apps by searching through all the paths of the app in such a way as not to leave useless files, check the status of life of your disks, safely delete files you no longer need and much more.
 
 #### coconutBattery ✅ | 💰
 Detailed information on the battery of your devices such as MacBook and iPhone.
@@ -96,7 +96,7 @@ Detailed information on the battery of your devices such as MacBook and iPhone.
 It allows you to mount partitions such as: FTP, Azure, Amazon S3, Dropbox and many others.
 
 #### DaisyDisk 💰
-Check which files are taking up space inside your mac. Very simple and nice interface.
+Check which files are taking up space inside your mac. Very simple and nice interface. Unlike other products, DaisyDisk allows you to go into the "depth" of each Mac path.
 
 #### JDownloader2 ✅
 Download any file with a simple webpage link.
@@ -135,7 +135,7 @@ The Jetbrains suite is immense. Each product is built for a specific language. T
 #### Atom ✅
 Fast and flexible. It can be configured in every detail to offer maximum power.
 
-#### Sublime Text ✅ | 💰
+#### Sublime Text 3 ✅ | 💰
 Configured properly it can be an excellent "ide" for development.
 
 ## Gaming
@@ -161,10 +161,22 @@ The best editor for Markdown. Simple, open source and fast. I recommend disablin
 #### Apple Note ✅
 If you are in the Apple ecosystem it is a must have, both for fast and articulate notes.
 
-## Safari setup
-Years ago I used a lot of extensions, now I have reduced them to the maximum. There're only two active extensions:  
-1Password  
-AdGuard assistant
+&nbsp; &nbsp;
 
-## Arq setup
-I use iCloud as my main storage space but I have two Google accounts with 15GB free. I set up Arq to have two copies of important files and documents on Google Accounts every week. Each backup is encrypted before going to the cloud.
+# Setup
+
+### Safari
+Years ago I used a lot of extensions, now I have reduced them to the maximum. There're only two active extensions:  
+- [1Password](https://1password.com/it/downloads/mac/)   
+- [AdGuard assistant](https://adguard.com/en/adguard-assistant/overview.html#safari)
+
+### Arq
+I use iCloud as my main storage space but I have many other services with free storage that I don't use. Since Arq allows you to encrypt files before uploading them to the cloud, I managed my offline backups in the following way:  
+- **Google Drive** (15GB): two accounts. Upload backups of my most important documents.  
+- **Dropbox** (30GB): backup of all telegram chats from 2014 to today.  
+- **OneDrive** (40GB): second backup over iCloud of important photos and videos.  
+
+### Alfred workflows
+- [GitHub repos](https://github.com/edgarjs/alfred-github-repos): allows you to quickly access all repos.  
+- [Alfred Kat](https://github.com/godbout/alfred-kat): download torrents quickly without having to search anywhere on the internet.   
+- [Reddit](https://github.com/deanishe/alfred-reddit): quickly browse Reddit subs and more.
