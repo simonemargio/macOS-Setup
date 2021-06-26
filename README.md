@@ -37,6 +37,9 @@ More refined interface than VLC and complete support for devices with AirPlay, C
 #### HandBrake ✅
 Open source video transcoder, never given any problems.
 
+#### Adapter ✅
+Converts Video, Audio and Images.
+
 ## Productivity
 #### Axure RP 9 🔄
 Fantastic software for creating and modeling prototypes. It allows the import of patterns and external libraries and the possibility to share your prototypes online.
@@ -50,9 +53,6 @@ I've used many password managers but 1Password is still my choice. Multiplatform
 
 #### KeePassXC ✅
 Open source and totally offline password manager. In my case I use it to save backup codes and important documents that I want to keep separate from 1Password.
-
-#### ProtonVPN 🔄
-I only use it in rare cases where I can't connect to a website.
 
 #### Mullvad VPN 🔄
 One of the few VPNs that allow you to use it without having an account. Used for a couple of months and has never had any problems.
@@ -70,7 +70,7 @@ He does everything, you don't have to do anything.
 #### Carbon Copy Cloner 💰
 Good backup manager with many features and in particular the possibility of checksum checks on the files being backed up.
 
-#### Arq 💰
+#### Arq backs up 💰
 For offsite backups. It supports many services like Amazon S3, Backblaze B2, Google drive or cloud and many others.
 
 ## Utilities
@@ -95,7 +95,7 @@ Download and manage torrent files.
 #### Alfred ✅ | 💰
 Spotlight is definitely a great way to search for anything. But many times it's slow, it doesn't show all the files and slowly. So you realize that it's limited. Alfred is a great replacement for Spotlight, light and fast. It's available in a free version but buying a license opens up a world of possible search combinations that you can do. Through the Workflows I can do research on Reddit, view my repo on GitHub, search for torrents and many other things. It has tons of features and once configured properly, I would just use it for anything.
 
-#### Reeder 💰
+#### Reeder 5 💰
 Fantastic RSS feed manager. Available for both macOS and iOS. The latest update allows the synchronization of your feed via iCloud.
 
 #### VMware Fusion ✅ | 💰
@@ -110,9 +110,6 @@ If you use Xcode it allows you to see all the files downloaded for emulation and
 ## Coding
 #### Jetbrains suite 🔄
 The Jetbrains suite is immense. Each product is built for a specific language. There're already numerous settings and supporting software to work with your favorite programming language. On the other hand, they consume much more resources than other simpler and more reactive ide.
-
-#### Atom ✅
-Fast and flexible. It can be configured in every detail to offer maximum power.
 
 #### Sublime Text 3 ✅ | 💰
 Configured properly it can be an excellent "ide" for development.
@@ -143,7 +140,7 @@ Years ago I used a lot of extensions, now I have reduced them to the maximum. Th
 - [1Password](https://1password.com/it/downloads/mac/)   
 - [AdGuard assistant](https://adguard.com/en/adguard-assistant/overview.html#safari)
 
-### Arq
+### Arq backs up
 I use iCloud as my main storage space but I have many other services with free storage that I don't use. Since Arq allows you to encrypt files before uploading them to the cloud, I managed my offline backups in the following way:  
 - **Google Drive** (15GB): two accounts. Upload backups of my most important documents.  
 - **Dropbox** (30GB): backup of all telegram chats from 2014 to today.  
